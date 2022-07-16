@@ -1,4 +1,4 @@
-# Python-para-An-lise-Quantitativa
+# Python-para-Analise-Quantitativa
 Material usado nessa jornada
 Curso utilizado: https://quantra.quantinsti.com/course/python-trading-basic
 Livro utilizado: https://www.packtpub.com/product/python-for-finance-cookbook/9781789618518
