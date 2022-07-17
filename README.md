@@ -1,4 +1,6 @@
 # Python para Analise Quantitativa
+Começando uma nova jornada. A idéia desse repositório é incluir resenhas de livros e os códigos a medida que for avançando no aprendizado
+
 ## Material usado nessa jornada
 ### Curso que estou assistindo 
     https://quantra.quantinsti.com/course/python-trading-basic
